@@ -1,4 +1,4 @@
-# cleaning-Data
+# Cleaning-Data
 Cleaning Data Coursera Project  
 
 The project is using the function run_analysis() in the run_analysis.R, to 
