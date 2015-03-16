@@ -1,7 +1,6 @@
 run_analysis<-function(){
 library(dplyr)
 library(data.table)
-setwd("C:/Users/cv/Desktop/corso3/")
 
 ###########################################
 ### first step:                         ###
@@ -74,7 +73,6 @@ X<-cbind(X_Means,X_sdt)
 ### one data set X                       ### 
 ############################################
 
-#View(X)
 
 ############################################
 ### create the Activity class vector     ###
