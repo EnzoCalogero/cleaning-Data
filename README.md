@@ -6,7 +6,7 @@ The project is using the function run_analysis() in the run_analysis.R, to
 * Select and name the relevant variable
 * And compute the requenete average on the relevant variables.
 
-The R scipt run_analysis() has the pre-requisite below:
+The R scipt run_analysis() has the following pre-requisite:
 
 1. "the Human Activity Recognition Using Smartphones" Dataset on the working directory.
 2. installed on the R system the libraries dplyr and data.table.
