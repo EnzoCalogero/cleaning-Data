@@ -9,7 +9,7 @@ The project is using the function run_analysis() in the run_analysis.R, to
 The R scipt run_analysis() has the pre-requisite below:
 
 1. "the Human Activity Recognition Using Smartphones" Dataset on the working directory.
-2. installed on the R system the library dplyr and data.table.
+2. installed on the R system the libraries dplyr and data.table.
 
 The script visualise the final data set (using the View() function) 
 and it writes it on the file "finale.txt" in the current working directory.
