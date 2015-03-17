@@ -4,6 +4,20 @@ The script run_analysis() in the file Run_analysis.R, first load teh two R libra
 dplyr and data.table.
 The first is use to manipolate the data set
 (reduce aggregate the number of variables/columns, group and summarise), 
-while the second library is used mainly for teh function fread() which allow to load
+while the second library is used mainly for the function fread() which allow to load
 big file into data set in a short time.
+
+## input 
+The script read the two files "./test/X_test.txt" and ./train/X_train.txt"
+(note: before teh importing it is needed to transform teh double space into a single space 
+https://class.coursera.org/getdata-012/forum/thread?thread_id=136)
+
+The two dataset are merged into a new one called "X"
+
+To give a name to each column it is loaded the file "./features.txt"
+and once loaded the faetures are associated to the data set X.
+
+Using the function select() are extracted from the Data Set X all the variable with the mean
+and then all teh vaiables with the STD and merged toghter in a new data set called X. 
+ 
 
