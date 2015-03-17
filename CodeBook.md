@@ -34,5 +34,24 @@ They are merged into a new data set called "subject" and then merged into the X 
 ## Final Summary 
 The data set X is summarised by grouping all the data set by the activity and subject and for each variable teh relate average is calculated and saved in the daat set finale and saved in the file "./finale.txt" 
 
- 
+## Variable selected 
+For the following variable is selected the mean and the sdt. 
+*tBodyAcc-XYZ
+*tGravityAcc-XYZ
+*tBodyAccJerk-XYZ
+*tBodyGyro-XYZ
+*tBodyGyroJerk-XYZ
+*tBodyAccMag
+*tGravityAccMag
+*tBodyAccJerkMag
+*tBodyGyroMag
+*tBodyGyroJerkMag
+*fBodyAcc-XYZ
+*fBodyAccJerk-XYZ
+*fBodyGyro-XYZ
+*fBodyAccMag
+*fBodyAccJerkMag
+*fBodyGyroMag
+*fBodyGyroJerkMag
+
 
