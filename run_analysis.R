@@ -149,7 +149,7 @@ View(X)
 
 
 ############################################
-###  Read teh subject file "subject_test"###
+###  Read the subject file "subject_test"###
 ### from the test and train folders      ###
 ############################################
 
