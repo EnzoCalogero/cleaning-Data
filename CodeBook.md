@@ -36,22 +36,22 @@ The data set X is summarised by grouping all the data set by the activity and su
 
 ## Variable selected 
 For the following variable is selected the mean and the sdt. 
-*tBodyAcc-XYZ
-*tGravityAcc-XYZ
-*tBodyAccJerk-XYZ
-*tBodyGyro-XYZ
-*tBodyGyroJerk-XYZ
-*tBodyAccMag
-*tGravityAccMag
-*tBodyAccJerkMag
-*tBodyGyroMag
-*tBodyGyroJerkMag
-*fBodyAcc-XYZ
-*fBodyAccJerk-XYZ
-*fBodyGyro-XYZ
-*fBodyAccMag
-*fBodyAccJerkMag
-*fBodyGyroMag
-*fBodyGyroJerkMag
+* tBodyAcc-XYZ
+* tGravityAcc-XYZ
+* tBodyAccJerk-XYZ
+* tBodyGyro-XYZ
+* tBodyGyroJerk-XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc-XYZ
+* fBodyAccJerk-XYZ
+* fBodyGyro-XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
 
 
