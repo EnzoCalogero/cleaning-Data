@@ -31,8 +31,8 @@ The two files that logs the subjects are read and load as data sets "./test/subj
 
 They are merged into a new data set called "subject" and then merged into the X data set.
 
-
-
+## Final Summary 
+The data set X is summarised by grouping all the data set by the activity and subject and for each variable teh relate average is calculated and saved in the daat set finale and saved in the file "./finale.txt" 
 
  
 
