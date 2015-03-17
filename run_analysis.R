@@ -45,16 +45,16 @@ feature<-read.table("./features.txt")
 setnames(X,names(X),as.character(feature[,2]))
 
 ############################################
-### I extract all the variables with the ### 
-## mean and I save them into the dataset ###
+### Extract all the variables with the   ### 
+## mean and saves them into the dataset  ###
 ### X_Means                              ###
 ############################################
 
 X_Means<-select(X,contains("Mean()"))
 
 ############################################
-### I extract all the variables with the ### 
-## mean and I save them into the dataset ###
+### Extract all the variables with the   ### 
+## sdt and saves them into the dataset   ###
 ### X_Means                              ###
 ############################################
 
