@@ -3,7 +3,7 @@ Cleaning Data Coursera Project
 
 The project is using the function run_analysis() in the run_analysis.R, to 
 * Merge the relevant data set;
-* Select and name the relevant variable
+* Select and name the relevant variables;
 * Compute the requested average on the relevant variables.
 
 The R scipt run_analysis() has the following pre-requisite:
